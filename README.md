@@ -1,2 +1,2 @@
 # DevMob
-Jeu de Morpion Android &amp; iOS
+Jeu de Morpion à la fois sur Android & iOS
